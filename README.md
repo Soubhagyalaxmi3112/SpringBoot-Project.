@@ -1,2 +1,2 @@
 # SpringBoot-Project.
-Springboot Project.
+Springboot Data Jpa Project.
